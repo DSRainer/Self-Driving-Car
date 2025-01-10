@@ -1,4 +1,4 @@
-#Self-Driving Car Simulation in JavaScript
+# Self-Driving Car Simulation in JavaScript
 This project is a self-driving car simulation implemented using vanilla JavaScript. The car utilizes virtual sensors to detect obstacles and avoid incoming traffic within a simulated environment.
 
 Features
