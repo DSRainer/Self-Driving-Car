@@ -15,6 +15,7 @@ To run the simulation locally, follow these steps:
 Clone the Repository:
 
 git clone https://github.com/DSRainer/self-driving-car.git
+
 Navigate to the Project Directory:
 
 cd self-driving-car
