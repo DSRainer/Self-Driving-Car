@@ -19,28 +19,42 @@ git clone https://github.com/DSRainer/self-driving-car.git
 Navigate to the Project Directory:
 
 cd self-driving-car
+
 Open the index.html File:
+
 
 You can open the index.html file in your preferred web browser to launch the simulation.
 
 Usage
 Start the Simulation: Upon opening the index.html file, the simulation will begin automatically.
 Interact with the Simulation: Observe how the car navigates the road, detects obstacles, and avoids incoming traffic using its virtual sensors.
+
 Project Structure
+
 The project consists of several key files:
 
 index.html: The main HTML file that sets up the simulation environment.
+
 style.css: Contains the styling for the simulation interface.
+
 main.js: Coordinates the overall functionality of the simulation.
+
 car.js: Defines the car's properties and behaviors.
+
 controls.js: Manages user inputs and car control mechanisms.
+
 road.js: Sets up the road layout and boundaries.
+
 sensor.js: Implements the car's virtual sensor system.
+
 network.js: Contains the neural network logic for decision-making.
+
 visualizer.js: Provides functions to visualize sensor data and neural network operations.
+
 
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Note: This README file is based on the Self-Driving Car project by DSRainer. For more detailed information and the complete source code, please refer to the original repository.
+
+Note: This README file is based on the Self-Driving Car project by DSRainer. Please refer to the original repository for more detailed information and the complete source code.
