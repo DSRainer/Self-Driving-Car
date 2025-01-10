@@ -1,6 +1,9 @@
 # Self-Driving Car Simulation in JavaScript
 This project is a self-driving car simulation implemented using vanilla JavaScript. The car utilizes virtual sensors to detect obstacles and avoid incoming traffic within a simulated environment.
 
+
+Live Link: https://self-driving-carv3js.netlify.app/
+
 Features
 Car Driving Mechanics: Implements basic car movement and turning capabilities.
 Road Definition: Defines the road layout and boundaries for the simulation.
